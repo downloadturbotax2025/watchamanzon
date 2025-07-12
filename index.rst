@@ -3,7 +3,7 @@ How to Connect Your TV to Amazon Using amazon.com/mytv
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
 
 .. image:: blank.png
    :width: 350px
